@@ -1,0 +1,116 @@
+{
+  "project_info": {
+    "project_number": "934745718583",
+    "firebase_url": "https://mydjango-45ef4.firebaseio.com",
+    "project_id": "mydjango-45ef4",
+    "storage_bucket": "mydjango-45ef4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934745718583:android:2e777912bb0eb918",
+        "android_client_info": {
+          "package_name": "com.xenum.httpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934745718583-h0cepatke4tousdr4b4dmt4avcg15g1j.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "934745718583-h0cepatke4tousdr4b4dmt4avcg15g1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAuOc7sx6guccgMOXaHRKHrHdqDvyzxo0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934745718583:android:32594a283f30decc",
+        "android_client_info": {
+          "package_name": "com.xenum.mynotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934745718583-h0cepatke4tousdr4b4dmt4avcg15g1j.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "934745718583-h0cepatke4tousdr4b4dmt4avcg15g1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAuOc7sx6guccgMOXaHRKHrHdqDvyzxo0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934745718583:android:f077269e28bd9409",
+        "android_client_info": {
+          "package_name": "com.xenum.notifyme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934745718583-h0cepatke4tousdr4b4dmt4avcg15g1j.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "934745718583-h0cepatke4tousdr4b4dmt4avcg15g1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAuOc7sx6guccgMOXaHRKHrHdqDvyzxo0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
